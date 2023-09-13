@@ -20,4 +20,5 @@ class Vehicle {
     
     console.log(car instanceof Car);
     console.log(car instanceof Vehicle);
+    console.log("hi");
     
